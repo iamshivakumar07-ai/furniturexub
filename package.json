@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@supabase/ssr": "^0.10.3",
+    "@supabase/supabase-js": "^2.107.0",
+    "@tanstack/react-query": "^5.101.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.40.0",
+    "lucide-react": "^1.17.0",
+    "react-hot-toast": "^2.6.0",
+    "swiper": "^12.2.0",
+    "tailwind-merge": "^3.6.0",
+    "zustand": "^5.0.14"
+  }
+}
